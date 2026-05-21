@@ -11,6 +11,8 @@ weekend for the PostgreSQL project 30 year anniversary celebration at
 trust, authentication and can issue queries.  Errorhandling is still very
 limited but will be improved.
 
+[![Demo](https://img.youtube.com/vi/VZaKMbj7bZU/maxresdefault.jpg)](https://www.youtube.com/watch?v=VZaKMbj7bZU)
+
 ## Querying
 
 Queries are not ended with semicolon as that is hard to type on a C64 keyboard,
